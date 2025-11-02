@@ -196,7 +196,4 @@ public class Main {
 
 This project is licensed under the **MIT License** — free for personal and commercial use.
 
----
-
-Would you like me to format this `README.md` with **badges** (for React, Node.js, Render, Vercel, etc.) at the top for a more eye-catching GitHub profile look? It’ll make it look like a professional open-source project.
 
