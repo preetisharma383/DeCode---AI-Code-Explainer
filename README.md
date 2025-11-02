@@ -1,9 +1,3 @@
-Perfect 👏 — here’s a complete, professional-quality **`README.md`** for your project **“DeCode – AI Code Explainer”**, written in a style that looks great on GitHub and explains everything clearly for contributors and recruiters.
-
-You can paste this directly into your `README.md` file in the root of your repo.
-
----
-
 # 🧠 DeCode – AI Code Explainer
 
 **DeCode** is an AI-powered web app that explains code in simple language.
@@ -205,3 +199,4 @@ This project is licensed under the **MIT License** — free for personal and com
 ---
 
 Would you like me to format this `README.md` with **badges** (for React, Node.js, Render, Vercel, etc.) at the top for a more eye-catching GitHub profile look? It’ll make it look like a professional open-source project.
+
