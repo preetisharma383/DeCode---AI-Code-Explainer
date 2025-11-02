@@ -1,0 +1,11 @@
+import React from 'react'
+import './App.css'
+import CodeEntry from './components/CodeEntry'
+
+function App() {
+  return (
+    <CodeEntry />
+  )
+}
+
+export default App
